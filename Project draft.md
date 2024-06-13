@@ -7,13 +7,12 @@ metals.
 
 ### Goals
 
-1. Develop prediction model: Create a method that can robustly analyze  
-and characterize local atomic environments and global sturcture at several  
-timestep into the future(past)  
-2. Develop Generative model: ...  
+1. Develop representation model: Create a representation method that can robustly analyze  
+and characterize structure and dynamic for local atomic environments.
+2. Develop generative model for 
 3. Enhance Understanding of Atomic Structures: Provide new insights into  
-the topological nature of local atomic configurations, potentially leading  
-to better predictions of material properties
+the topological nature of local atomic configurations, potentially leading
+
 
 ### Approach
 
