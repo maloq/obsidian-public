@@ -1,10 +1,8 @@
 ### Problem statement
 
-To develop a robust machine learning framework that characterizes  
+To develop a machine learning framework that characterizes  
 and differentiates local atomic structures, crystalline order, etc in monoatomic  
-metals(and other materials?)  
-
-
+metals. 
 
 
 ### Goals
@@ -23,8 +21,9 @@ to better predictions of material properties
 2. Local Regions Clusterization(Classification)/Simulation Space Segmentaion:  
 Generate PDs to summarize the birth and death of topological features  
 across different scales.  
-3. Next step generation with generative model:  
-Goals:  
+3. Next step generation with generative model:
 
-### Review
+Ideas: 
+Use prior crystal structure 
+
 
