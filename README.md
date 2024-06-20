@@ -1,4 +1,3 @@
-
 ### Problem statement
 
 "Understanding homogeneous crystal nucleation under deep undercooling conditions remains a formidable issue, as crystallization is essentially heterogeneous in nature and initiated from impurities, surfaces, or near grain boundaries that often hinder its occurrence. Unreachable until very recently, experimental observations of early stages of nuclei was achieved by a _tour de force_ using time tracking of three-dimensional (3D) Atomic Electron Tomography of metallic nanoparticles. Those complex phenomena remain to date out-of-reach experimentally for bulk systems, thus hindering our theoretical understanding. This line of research still belongs mostly to the domain of atomic-level simulations and more particularly to molecular dynamics (MD) with generic interaction model. To reach statistically meaningful events, large scale simulations are required. This still remains challenging as only few studies are providing now million-to billion-atom simulations for monatomic metals."
@@ -23,16 +22,8 @@ Local:
 3. ???
 
 Global:
-Try [[Topological clustering of multilayer networks]]
+Try [Topological clustering of multilayer networks](Topological%20clustering%20of%20multilayer%20networks.md)
 
-
-Вопросы к предыдущему проекту 
-Добавить статьи 
-Графы
-Постановка задачи
-
-Какая область стала кристаллом 
-Классифицировать траектории структур во времени 
 
 ### Ideas: 
 * Use prior crystal structure to move from clustering to classification(or something else)
@@ -40,9 +31,3 @@ Try [[Topological clustering of multilayer networks]]
 * From future steps we know wich structures will become part of crystal 
 * Melting(crystal disintegration) as diffusion process, reverse diffusion as crystallization(genetative model)  
 * ...
-
-
-
-
-
-
